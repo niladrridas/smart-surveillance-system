@@ -27,5 +27,5 @@ The Smart Surveillance System is designed to monitor and analyze video feeds in 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/SmartSurveillanceSystem.git
+   git clone https://github.com/niladrigithub/SmartSurveillanceSystem.git
    cd SmartSurveillanceSystem
